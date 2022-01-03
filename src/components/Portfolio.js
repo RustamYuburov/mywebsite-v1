@@ -1,0 +1,12 @@
+import React from "react";
+
+const Portfolio = () => {
+  
+  return (
+    <div className="main ">
+      <h1>Portfolio stuff</h1>
+    </div>
+  )
+}
+
+export default Portfolio;
