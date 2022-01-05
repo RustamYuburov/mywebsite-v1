@@ -41,5 +41,5 @@ export {
   NPM,
   Russian,
   English,
-  Chinese
+  Chinese,
 };
