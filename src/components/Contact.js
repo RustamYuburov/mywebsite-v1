@@ -40,6 +40,16 @@ const Contact = () => {
             <h3>LinkedIn</h3>
           </a>
         </div>
+        <div className="contactInfo">
+          <a href="https://drive.google.com/file/d/1IiQiYtrirf53jl4Cnq9jFSInWUN_YWAG/view?usp=sharing">
+            <img
+              className="contactImg"
+              src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-resume-online-crash-course-inipagistudio-mixed-inipagistudio.png"
+              alt="contact logo"
+            />
+            <h3>My Resume</h3>
+          </a>
+        </div>
       </div>
     </div>
   );
